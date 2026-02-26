@@ -21,7 +21,7 @@
 </div>
 
 ### Project Purpose
-This functions as an **Independent Frontend**, acting purely as a consumer of the [Nexus-API](https://github.com/impishlucy/Nexus-API).
+This functions as an **Demo Project**, acting purely as a consumer of the [Nexus-API](https://github.com/impishlucy/Nexus-API).
 
 ## Development Status
 
